@@ -8,6 +8,10 @@ This project is an implementation of the paper "Dual Stream Network Based on GCN
 
 The dataset used in this implementation can be downloaded from the following link: [DKA Solar Centre Alice Springs Dataset](https://dkasolarcentre.com.au/locations/alice-springs/graphs?sources=93)
 
+
+## Highlights
+The current code only includes the basic implementation and is intended to help illustrate the methods discussed in the paper. 
+
 ## Full Code
 
 The complete code will be uploaded after the paper is published. 
